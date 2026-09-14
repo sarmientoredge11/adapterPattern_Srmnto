@@ -1,4 +1,4 @@
-## Remote Control for Home Appliances
+## Plugging Devices into Power Outlets
 
 Plugging Devices into Power Outlets
 
