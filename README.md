@@ -1,13 +1,10 @@
-## Problem 
-Implement factory design pattern using Pet as the factory interface.  The interface implements two methods: makeSound() and play().
+## Remote Control for Home Appliances
 
-Dog and Cat are concrete objects that implements Pet interface.
+You are developing an application for controlling various home appliances with a remote control. The remote control, called RemoteControlFunction, has four methods: powerOn(), powerOff(), pressPlusButton(), and pressMinusButton(). However, the home appliances you want to control, including a TV, an air conditioner, and a speaker, have different control interfaces and methods. You need to implement the Adapter Pattern to make these appliances compatible with the RemoteControlFunction without changing their core logic.
 
-PetRecord holds attributes such as petId, petName, and Pet.
+## UML Class Diagram
+![alt text](https://github.com/JerryEsperanza/SoftEng1_4BSCS2/blob/master/adapterPattern/adapterPatternImage.png?raw=true)
 
-Clinic would be the client object.
 
-Refer to the UML Class Diagram
 
-## Class Diagram
-![image](https://github.com/JerryEsperanza/factoryPattern/assets/142370600/0506f134-a5f6-4d98-a817-cd6f7a8466c7)
+
